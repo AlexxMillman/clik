@@ -1,4 +1,4 @@
-# Avail CLI
+# Avail CLI.
 
 To install the CLI from `npm`, run the following command:
 ```sh
